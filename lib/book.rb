@@ -32,5 +32,6 @@ class Book
   end
 
   def turn_page
+    puts "Flipping page"
   end
 end
